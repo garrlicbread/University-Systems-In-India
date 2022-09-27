@@ -9,7 +9,7 @@ It includes the following pages.
 
 2) Central Universities: This page consists of information on the evolution of central university system in India as well as information on some of the best central universities in the country.
 
-![alt text](http://url/to/"F:\Sukant\PHP\Website Screenshots\Central.png")
+![Central Uni](http://url/to/"F:\Sukant\PHP\Website Screenshots\Central.png](https://github.com/garrlicbread/University-Systems-In-India/blob/main/Central.png)
 
 3) State Universities: This page consists of information on the evolution of state university system in India as well as information on some of the best state universities in the country.
 
