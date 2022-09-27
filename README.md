@@ -5,7 +5,7 @@ It includes the following pages.
 
 1) US Main Page: The home page of the website. Includes tabs to go to other pages, along with a brief history of the education system in india and a table of various top colleges in the country.
 
-![alt text](US Main Page.png)
+![US Main Page](https://github.com/garrlicbread/University-Systems-In-India/blob/main/US%20Main%20Page.png)
 
 2) Central Universities: This page consists of information on the evolution of central university system in India as well as information on some of the best central universities in the country.
 
