@@ -9,16 +9,16 @@ It includes the following pages.
 
 2) Central Universities: This page consists of information on the evolution of central university system in India as well as information on some of the best central universities in the country.
 
-![Central Uni](http://url/to/"F:\Sukant\PHP\Website Screenshots\Central.png](https://github.com/garrlicbread/University-Systems-In-India/blob/main/Central.png)
+![Central Uni](https://github.com/garrlicbread/University-Systems-In-India/blob/main/Central.png)
 
 3) State Universities: This page consists of information on the evolution of state university system in India as well as information on some of the best state universities in the country.
 
-![alt text](http://url/to/"F:\Sukant\PHP\Website Screenshots\State.png")
+![State Unis](https://github.com/garrlicbread/University-Systems-In-India/blob/main/State.png)
 
 4) Private Universities: This page consists of information on the evolution of private university system in India as well as information on some of the best private universities in the country.
 
-![alt text](http://url/to/"F:\Sukant\PHP\Website Screenshots\Private.png")
+![Private Unis](https://github.com/garrlicbread/University-Systems-In-India/blob/main/Private.png)
 
 5) University Systems: This page consists of information on some of the special university systems in India that consist of IITs, IIM's, NIT's, etc.
 
-![alt text](http://url/to/"F:\Sukant\PHP\Website Screenshots\Systems.png")
+![University Systems](https://github.com/garrlicbread/University-Systems-In-India/blob/main/Systems.png)
